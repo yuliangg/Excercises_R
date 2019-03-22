@@ -1,1 +1,1 @@
-# Excercices_R
+# Excercises_R
